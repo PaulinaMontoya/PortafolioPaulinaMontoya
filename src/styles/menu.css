@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap');
+
+
+.cointenerMenu{
+    background: #131313;
+    width: 20%;
+    text-align: center;
+    padding: 20px;
+    height: auto;
+    box-shadow: 5px 0px black;
+}
+.logoMenu{
+    margin-top:20px;
+    width: 250px;
+}
+.cointenerButtons{
+    margin-top: 40px;
+    text-decoration: none;
+}
+.buttonMenu{
+    color: white;
+    margin-bottom:30px;
+    font-family: "Lato";
+    font-size: 18px;
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap');
+
+.cointenerContact{
+    background: #131313;
+    display: flex;
+}
+.titleContact{
+    font-family: "Lato";
+    font-size: 50px;
+    padding:100px;
+    color: cornsilk;
+}
+.spanContact{
+    color: #00FA77;
+}

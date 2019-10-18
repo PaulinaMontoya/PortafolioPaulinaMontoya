@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap');
+
+.cointenerWorks{
+    background: #131313;
+    display: flex;
+}
+.titleWorks{
+    font-family: "Lato";
+    font-size: 40px;
+    color: cornsilk;
+    padding: 80px;
+}
