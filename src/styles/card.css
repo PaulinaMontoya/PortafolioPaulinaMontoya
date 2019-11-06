@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap');
+
+.cointenerAllCards{
+    display: inline-block;
+  /* overflow-y: auto;  */
+    width: 50%;
+}
+.cointenerCard{
+    background: black;
+    width: 400px;
+    height: 90%;
+    margin:  0 5px 0 5px;
+}
+.imgCard{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.infoProyect{
+    font-family: "Lato";
+    font-size: 12px;
+    padding: 15px;
+}
+.cointenerButtons{
+  margin: 15px 0 20px 0;  
+}
+.buttonProyect{
+    margin: 0 15px 0 0;
+    padding: 5px 15px 5px 15px;
+}

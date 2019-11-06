@@ -3,7 +3,6 @@ import Menu from '../components/Menu'
 import '../styles/main.css';
 
 class Main extends Component {
-
   
   render() {
     return (

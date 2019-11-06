@@ -1,12 +1,23 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap');
 
 .cointenerWorks{
-    background: #131313;
+    background-color: #000000;
+    background-image: url("data:image/svg+xml,%3Csvg width='16' height='20' viewBox='0 0 16 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%231c1c1c' fill-opacity='1' fill-rule='evenodd'%3E%3Cpath d='M8 0v20L0 10M16 0v10L8 0M16 10v10H8'/%3E%3C/g%3E%3C/svg%3E");
+
+    /*background: #131313;*/
     display: flex;
+    height: 100vh;
+}
+.cointenerCardsProyects{
+    width: 80%;
 }
 .titleWorks{
+    text-align: center;
+    margin: 0;
+    /*width: 100%;*/
     font-family: "Lato";
     font-size: 40px;
     color: cornsilk;
-    padding: 80px;
+    padding: 0px;
+    margin: 50px 0 60px 0;
 }
