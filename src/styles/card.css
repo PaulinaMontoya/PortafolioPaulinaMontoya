@@ -2,19 +2,25 @@
 
 .cointenerAllCards{
     display: inline-block;
-  /* overflow-y: auto;  */
-    width: 50%;
+    overflow: 60px;
+    display: grid;
+    grid-template-columns: repeat(2, 30%);
+    grid-gap: 55px;
+   justify-content: center; 
 }
 .cointenerCard{
-    background: black;
-    width: 400px;
-    height: 90%;
-    margin:  0 5px 0 5px;
+    background: beige;
+    width: 100%;
+    height: auto;
+  /*margin:  0 5px 0 5px;*/
+    border-radius: 5px;
+    padding: 0 20px 0px 20px;
 }
 .imgCard{
     width: 50%;
     margin: 0 auto;
     text-align: center;
+    margin-bottom: 30px;
 }
 .infoProyect{
     font-family: "Lato";
@@ -22,9 +28,12 @@
     padding: 15px;
 }
 .cointenerButtons{
-  margin: 15px 0 20px 0;  
+    text-align: center;
+    margin: 15px 0 20px 0;
 }
 .buttonProyect{
     margin: 0 15px 0 0;
     padding: 5px 15px 5px 15px;
+    background: black;
+    color: beige;
 }
