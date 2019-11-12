@@ -10,7 +10,7 @@ class Works extends Component {
       <div className="cointenerWorks">
         <Menu />
         <div className="cointenerCardsProyects">
-        <p className="titleWorks">Here I´m gonna show my <span className="spanContact">Works</span> :P</p>
+        <p className="titleWorks">Take a look of my<span className="spanContact"> Works</span></p>
         <Card />
         </div>
       </div>
