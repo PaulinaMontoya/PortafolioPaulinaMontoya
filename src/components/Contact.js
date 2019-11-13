@@ -14,7 +14,7 @@ class Contact extends Component {
         <div className="cointenerButtonsContact">
           <button className="buttonContact"><a href="https://www.linkedin.com/in/paulinamontoya/" target="_blank"><i className="fab fa-linkedin-in"></i></a></button>
           <button className="buttonContact"><a href="https://github.com/PaulinaMontoya" target="_blank"><i class="fab fa-github"></i></a></button>
-          <button className="buttonContact"><a href="mailto:hello@paulinamontoya.com,subject=Hi Paulina!! I would like to cantact you"><i class="fas fa-envelope"></i></a></button>
+          <button className="buttonContact"><a href="mailto:hello@paulinamontoya.com, subject=Hi Paulina!! I would like to cantact you"><i class="fas fa-envelope"></i></a></button>
           </div>
         </div>
       </div>
