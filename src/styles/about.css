@@ -46,3 +46,9 @@
     background-position: left 30%;
     transition: all 0.75s linear;
 }
+
+@media only screen and (max-width : 650px) {
+  .cointenerAbout{
+    display: inline;
+  }
+}
