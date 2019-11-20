@@ -5,22 +5,20 @@
     background: #0D0D0D;
     width: 20%;
     text-align: center;
-    padding: 100px 20px 20px 20px;
+    padding: 50px 20px 20px 20px;
     height: auto;
  /*   box-shadow: 5px 0px black;  */
 }
 .logoMenu{
-    width: 40%;
+   width: 40%;
    margin: auto;
 }
 .cointenerButtons{
-
     text-decoration: none;
-
 }
 .buttonMenu{
     color: #B3B3B3;
-    margin:50px 0 0 80px;
+    margin:50px 0 0 80px ;
     font-family: "Lato";
     font-size: 18px;
     text-align: left;
@@ -32,4 +30,56 @@
     background-image: linear-gradient(transparent 70%, #00FA77 0%);
     background-position: left 30%;
     transition: all 0.75s linear;
+}
+
+@media only screen and (max-width : 1000px) {
+
+    .buttonMenu{
+    margin:50px 0 0 20px;
+    font-size: 16px;
+    width: 100%;
+    }
+    .buttonMenu:hover{
+    width: 70%;
+    background-image: linear-gradient(transparent 80%, #00FA77 0%);
+    background-position: left 10%;
+    transition: all 0.30s linear;
+    }
+}
+
+@media only screen and (max-width : 992px) {
+
+    .buttonMenu{
+    margin:50px 0 0 30px;
+    font-size: 16px;
+    width: 100%;
+    }
+}
+
+@media only screen and (max-width : 768px) {
+
+    .buttonMenu{
+    margin:50px 0 0 30px;
+    font-size: 16px;
+    width: 100%;
+    }
+    .buttonMenu:hover{
+    width: 80%;
+    background-image: linear-gradient(transparent 80%, #00FA77 0%);
+    background-position: left 10%;
+    transition: all 0.30s linear;
+    }
+    .logoMenu{
+    width: 50%;
+    margin: auto;
+    }
+    .cointenerMenu{
+        width: 30%;
+    }
+}
+
+@media only screen and (max-width : 650px) {
+    .cointenerMenu{
+        display: none;
+    }
 }

@@ -20,7 +20,7 @@ class Card extends Component {
                     <div className="cointenerCard">
                         <img className="imgCard" src={item.img} alt={item.name} />
                         <div className="infoProyect">
-                            <h3 className="proyectName">{item.name}</h3>
+                            <h3 className="proyectName"><strong>{item.name}</strong></h3>
                             <p className="descriptionProyect">{item.description}</p>
                             <div>
                                 <h4 className="technilogies"><strong>Technologies</strong></h4>

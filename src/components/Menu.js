@@ -13,7 +13,7 @@ class Menu extends Component {
         </Link>
         <div className="cointenerButtons">
           <Link to="/about">
-          <p className="buttonMenu">Know me more</p>
+          <p className="buttonMenu">About me</p>
           </Link>
           <Link to="/works">
           <p className="buttonMenu">Works</p>
@@ -28,4 +28,3 @@ class Menu extends Component {
 }
 
 export default Menu;
-

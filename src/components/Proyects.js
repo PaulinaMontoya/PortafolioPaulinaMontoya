@@ -3,38 +3,38 @@ const Proyects = {
         {
             'id': 1,
             'img': 'https://i.ibb.co/42Hgdrz/Mockup-Burger-Kawaii.png',
-            'name': 'Burter Kawaii',
+            'name': 'Burger Kawaii',
             'description': 'Lorem ipsum dolor sit amet consectetur adipiscing elit praesent, aliquet felis fermentum luctus mollis urna hendrerit, iaculis dapibus magnis arcu imperdiet dictumst eros. Duis integer hendrerit lacus torquent id ut tincidunt iaculis interdum arcu auctor, mollis dictumst diam lectus eros litora hac tortor congue ac consequat, sociosqu placerat conubia mauris nisi vehicula platea rhoncus primis gravida. Posuere vel lobortis risus tellus dictum feugiat tempus felis accumsan, curae vestibulum ligula malesuada placerat sollicitudin faucibus pulvinar, bibendum dui massa arcu nascetur netus dapibus nam.',
             'demo': 'https://paulinamontoya.github.io/burger-kawaii/',
             'github': 'https://github.com/PaulinaMontoya/burger-kawaii',
-            'technologies': ["React.js", "Create-React-App", "React-Router", "Vanilla-CSS3", "Fetch"]
+            'technologies': ["React.js", "Create-React-App", "React-Router", "CSS3", "HTML5", "Responsive Web", "Fetch"]
         },
         {
             'id': 2,
             'img': 'https://i.ibb.co/42Hgdrz/Mockup-Burger-Kawaii.png',
-            'name': 'Burter Kawaii',
+            'name': 'Red Social Guanataco',
             'description': 'Lorem ipsum dolor sit amet consectetur adipiscing elit praesent, aliquet felis fermentum luctus mollis urna hendrerit, iaculis dapibus magnis arcu imperdiet dictumst eros. Duis integer hendrerit lacus torquent id ut tincidunt iaculis interdum arcu auctor, mollis dictumst diam lectus eros litora hac tortor congue ac consequat, sociosqu placerat conubia mauris nisi vehicula platea rhoncus primis gravida. Posuere vel lobortis risus tellus dictum feugiat tempus felis accumsan, curae vestibulum ligula malesuada placerat sollicitudin faucibus pulvinar, bibendum dui massa arcu nascetur netus dapibus nam.',
-            'demo': 'https://paulinamontoya.github.io/burger-kawaii/',
-            'github': 'https://github.com/PaulinaMontoya/burger-kawaii',
-            'technologies': ["React.js", "Create-React-App", "React-Router", "Vanilla-CSS3", "Fetch"]
+            'demo': 'https://celinaurzua.github.io/GDL003-social-network/src/',
+            'github': 'https://github.com/PaulinaMontoya/GDL003-social-network',
+            'technologies': ["Vanilla-JavaScript", "CSS3", "HTML5", "Firebase-Authentication", "Cloud Firestore", "Responsive Web"]
         },
         {
             'id': 3,
             'img': 'https://i.ibb.co/42Hgdrz/Mockup-Burger-Kawaii.png',
-            'name': 'Burter Kawaii',
+            'name': 'Data Lovers Rick and Morty',
             'description': 'Lorem ipsum dolor sit amet consectetur adipiscing elit praesent, aliquet felis fermentum luctus mollis urna hendrerit, iaculis dapibus magnis arcu imperdiet dictumst eros. Duis integer hendrerit lacus torquent id ut tincidunt iaculis interdum arcu auctor, mollis dictumst diam lectus eros litora hac tortor congue ac consequat, sociosqu placerat conubia mauris nisi vehicula platea rhoncus primis gravida. Posuere vel lobortis risus tellus dictum feugiat tempus felis accumsan, curae vestibulum ligula malesuada placerat sollicitudin faucibus pulvinar, bibendum dui massa arcu nascetur netus dapibus nam.',
-            'demo': 'https://paulinamontoya.github.io/burger-kawaii/',
-            'github': 'https://github.com/PaulinaMontoya/burger-kawaii',
-            'technologies': ["React.js", "Create-React-App", "React-Router", "Vanilla-CSS3", "Fetch"]
+            'demo': 'https://paulinamontoya.github.io/GDL003-data-lovers/src/',
+            'github': 'https://github.com/PaulinaMontoya/GDL003-data-lovers',
+            'technologies': ["Vanilla-JavaScript", "HTML5", "CSS3", "Responsive Web", "Fetch"]
         },
         {
             'id': 4,
             'img': 'https://i.ibb.co/42Hgdrz/Mockup-Burger-Kawaii.png',
-            'name': 'Burter Kawaii',
+            'name': 'Videogame 2D Morty\'s Nightmares',
             'description': 'Lorem ipsum dolor sit amet consectetur adipiscing elit praesent, aliquet felis fermentum luctus mollis urna hendrerit, iaculis dapibus magnis arcu imperdiet dictumst eros. Duis integer hendrerit lacus torquent id ut tincidunt iaculis interdum arcu auctor, mollis dictumst diam lectus eros litora hac tortor congue ac consequat, sociosqu placerat conubia mauris nisi vehicula platea rhoncus primis gravida. Posuere vel lobortis risus tellus dictum feugiat tempus felis accumsan, curae vestibulum ligula malesuada placerat sollicitudin faucibus pulvinar, bibendum dui massa arcu nascetur netus dapibus nam.',
-            'demo': 'https://paulinamontoya.github.io/burger-kawaii/',
-            'github': 'https://github.com/PaulinaMontoya/burger-kawaii',
-            'technologies': ["React.js", "Create-React-App", "React-Router", "Vanilla-CSS3", "Fetch"]
+            'demo': '../components/DemoMorty.js',
+            'github': 'https://github.com/PaulinaMontoya/GDL003-Videogame-2D-Rick-and-Morty',
+            'technologies': ["Unity", "C#"]
         }
     ]
 }
