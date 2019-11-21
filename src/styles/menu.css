@@ -80,21 +80,30 @@
 
 @media only screen and (max-width : 650px) {
     .cointenerMenu{
-        height: 25px;
+        height: 80px;
         width: 100%;
+        padding: 10px 0;
+        margin: 0;    
+        overflow: hidden;      
     }
     .logoMenu{
         width: 10%;
         margin: 0;
         padding: 0;
         }
-        .buttonMenu{
-            color: #B3B3B3;
+        .cointenerButtons{
+            background: #00FA77;
             margin: 0;
+            height: auto ;
+            padding: 15px;
+        }
+        .buttonMenu{
+            color: #0D0D0D;
+            margin: 13px 0;
             font-family: "Lato";
             font-size: 16px;
             display:flex;
-            width: 40%;
+            width: 100%;
             cursor: pointer;
         }
 }

@@ -5,12 +5,28 @@ import '../styles/menu.css';
 
 
 class Menu extends Component {
+
+  styleMobile = {
+    height: '250px'
+  }
+
+
+  constructor(props){
+    super(props);
+
+    this.state = {
+      openMenuMobile:false
+    };
+  }
+   
   render() {
     return (
-      <div className="cointenerMenu">
-        <Link to="/">
-        <img src={logo} alt="" className="logoMenu" ></img>
-        </Link>
+      <div className="cointenerMenu" style={(this.state.openMenuMobile)? this.styleMobile : {} }>
+        
+        <img src={logo} alt="" className="logoMenu" onClick={ () => {
+          this.setState({openMenuMobile: !this.state.openMenuMobile})
+        }} ></img>
+       
         <div className="cointenerButtons">
           <Link to="/about">
           <p className="buttonMenu">About me</p>

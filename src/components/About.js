@@ -17,7 +17,7 @@ class About extends Component {
   Soy una persona creativa que siempre busca la mejor forma de cubrir las necesidades en la experiencia de los usuarios aplicando metodologías ágiles en mi proceso de trabajo.
   Disfruto mucho trabajar en equipo ya que la retroalimentación de colegas siempre mejora mi trabajo y me inspira a seguir aprendiendo para expandir mi potencial.
 Me gusta mantener mi ser creativo en constante exploración de nuevas tendencias en diseño, arte y nuevas tecnologías. </p>
-          <div className="cointenerButtons">
+          <div className="cointenerButtonsAbout">
             <Link to="/contact">
               <button className="buttonAboutContact"><a target="_blank">Contact me</a></button>
             </Link>

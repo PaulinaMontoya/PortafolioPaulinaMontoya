@@ -49,6 +49,26 @@
 
 @media only screen and (max-width : 650px) {
   .cointenerAbout{
-    display: inline;
+    
+    display: inline-block;
+   height: auto;
   }
+  .cointenerTextAbout{
+    display: absolute;
+    width: 100%;
+    grid-template-columns: repeat(1, 80%);
+  }
+  .titleAbout {
+    font-size: 25px;
+  }
+  .aboutMe {
+    font-size: 14px;
+  }
+  .buttonAboutContact{
+    margin: 0 15px 80px 0;
+    padding: 10px;
+    background: #2e2e2e;
+    color: #B3B3B3;
+    width: 45%;
+}
 }
