@@ -21,15 +21,6 @@ const Proyects = {
         {
             'id': 3,
             'img': 'https://i.ibb.co/42Hgdrz/Mockup-Burger-Kawaii.png',
-            'name': 'Data Lovers Rick and Morty',
-            'description': 'Lorem ipsum dolor sit amet consectetur adipiscing elit praesent, aliquet felis fermentum luctus mollis urna hendrerit, iaculis dapibus magnis arcu imperdiet dictumst eros. Duis integer hendrerit lacus torquent id ut tincidunt iaculis interdum arcu auctor, mollis dictumst diam lectus eros litora hac tortor congue ac consequat, sociosqu placerat conubia mauris nisi vehicula platea rhoncus primis gravida. Posuere vel lobortis risus tellus dictum feugiat tempus felis accumsan, curae vestibulum ligula malesuada placerat sollicitudin faucibus pulvinar, bibendum dui massa arcu nascetur netus dapibus nam.',
-            'demo': 'https://paulinamontoya.github.io/GDL003-data-lovers/src/',
-            'github': 'https://github.com/PaulinaMontoya/GDL003-data-lovers',
-            'technologies': ["Vanilla-JavaScript", "HTML5", "CSS3", "Responsive Web", "Fetch"]
-        },
-        {
-            'id': 4,
-            'img': 'https://i.ibb.co/42Hgdrz/Mockup-Burger-Kawaii.png',
             'name': 'Videogame 2D Morty\'s Nightmares',
             'description': 'Lorem ipsum dolor sit amet consectetur adipiscing elit praesent, aliquet felis fermentum luctus mollis urna hendrerit, iaculis dapibus magnis arcu imperdiet dictumst eros. Duis integer hendrerit lacus torquent id ut tincidunt iaculis interdum arcu auctor, mollis dictumst diam lectus eros litora hac tortor congue ac consequat, sociosqu placerat conubia mauris nisi vehicula platea rhoncus primis gravida. Posuere vel lobortis risus tellus dictum feugiat tempus felis accumsan, curae vestibulum ligula malesuada placerat sollicitudin faucibus pulvinar, bibendum dui massa arcu nascetur netus dapibus nam.',
             'demo': '../components/DemoMorty.js',

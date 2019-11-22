@@ -25,3 +25,17 @@
 ::-webkit-scrollbar-thumb{
     background-color: #00FA77;
 }
+@media only screen and (max-width: 650px) {
+    .cointenerWorks {
+      display: inline-block;
+      height: auto;
+    }
+    .cointenerCardsProyects{
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .titleWorks{
+        font-size: 25px;
+    }
+}

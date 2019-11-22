@@ -12,7 +12,6 @@ class Card extends Component {
                       console.log()
                     })
                 };
-        
         */
         return (
             <div className="cointenerAllCards">
@@ -30,7 +29,7 @@ class Card extends Component {
                                     </ul>
                                 )}
                             </div>
-                            <div className="cointenerButtons">
+                            <div className="cointenerButtonsCards">
                                 <button className="buttonProyect"><a href={item.demo} target="_blank">DEMO</a></button>
                                 <button className="buttonProyect"><a href={item.github} target="_blank">GitHub</a></button>
                             </div>
