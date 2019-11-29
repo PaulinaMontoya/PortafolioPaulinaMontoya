@@ -2,28 +2,28 @@ const Proyects = {
     'data': [
         {
             'id': 1,
-            'img': 'https://i.ibb.co/42Hgdrz/Mockup-Burger-Kawaii.png',
+            'img': 'https://i.ibb.co/FB5DqBN/burger-Kawaii-App-Talento.png',
             'name': 'Burger Kawaii',
-            'description': 'Lorem ipsum dolor sit amet consectetur adipiscing elit praesent, aliquet felis fermentum luctus mollis urna hendrerit, iaculis dapibus magnis arcu imperdiet dictumst eros. Duis integer hendrerit lacus torquent id ut tincidunt iaculis interdum arcu auctor, mollis dictumst diam lectus eros litora hac tortor congue ac consequat, sociosqu placerat conubia mauris nisi vehicula platea rhoncus primis gravida. Posuere vel lobortis risus tellus dictum feugiat tempus felis accumsan, curae vestibulum ligula malesuada placerat sollicitudin faucibus pulvinar, bibendum dui massa arcu nascetur netus dapibus nam.',
-            'demo': 'https://paulinamontoya.github.io/burger-kawaii/',
+            'description': 'It\'s a web app to be used in ipads. It creates orders to a burger restaurant with two menus where the chefs can see the order in real time and delete them when they are ready.',
+            'demo': 'https://vimeo.com/376056295',
             'github': 'https://github.com/PaulinaMontoya/burger-kawaii',
             'technologies': ["React.js", "Create-React-App", "React-Router", "CSS3", "HTML5", "Responsive Web", "Fetch"]
         },
         {
             'id': 2,
-            'img': 'https://i.ibb.co/42Hgdrz/Mockup-Burger-Kawaii.png',
-            'name': 'Red Social Guanataco',
-            'description': 'Lorem ipsum dolor sit amet consectetur adipiscing elit praesent, aliquet felis fermentum luctus mollis urna hendrerit, iaculis dapibus magnis arcu imperdiet dictumst eros. Duis integer hendrerit lacus torquent id ut tincidunt iaculis interdum arcu auctor, mollis dictumst diam lectus eros litora hac tortor congue ac consequat, sociosqu placerat conubia mauris nisi vehicula platea rhoncus primis gravida. Posuere vel lobortis risus tellus dictum feugiat tempus felis accumsan, curae vestibulum ligula malesuada placerat sollicitudin faucibus pulvinar, bibendum dui massa arcu nascetur netus dapibus nam.',
-            'demo': 'https://celinaurzua.github.io/GDL003-social-network/src/',
+            'img': 'https://i.ibb.co/0KzpMNS/guanataco-App-Talento.png',
+            'name': 'Guanataco',
+            'description': 'It is a social network to write posts with comments about places to eat tacos in the city of Guadalajara and other users can rate them.',
+            'demo': 'https://vimeo.com/376266190',
             'github': 'https://github.com/PaulinaMontoya/GDL003-social-network',
-            'technologies': ["Vanilla-JavaScript", "CSS3", "HTML5", "Firebase-Authentication", "Cloud Firestore", "Responsive Web"]
+            'technologies': ["Vanilla-JavaScript", "CSS3", "HTML5", "Firebase-Authentication", "Cloud Firestore"]
         },
         {
             'id': 3,
-            'img': 'https://i.ibb.co/42Hgdrz/Mockup-Burger-Kawaii.png',
-            'name': 'Videogame 2D Morty\'s Nightmares',
-            'description': 'Lorem ipsum dolor sit amet consectetur adipiscing elit praesent, aliquet felis fermentum luctus mollis urna hendrerit, iaculis dapibus magnis arcu imperdiet dictumst eros. Duis integer hendrerit lacus torquent id ut tincidunt iaculis interdum arcu auctor, mollis dictumst diam lectus eros litora hac tortor congue ac consequat, sociosqu placerat conubia mauris nisi vehicula platea rhoncus primis gravida. Posuere vel lobortis risus tellus dictum feugiat tempus felis accumsan, curae vestibulum ligula malesuada placerat sollicitudin faucibus pulvinar, bibendum dui massa arcu nascetur netus dapibus nam.',
-            'demo': '../components/DemoMorty.js',
+            'img': 'https://i.ibb.co/0V2QX5y/morty-App-Talento.png',
+            'name': 'Morty\'s Nightmares',
+            'description': 'It is a 2D platform game created with Unity. If you want to dowloand it the build is in my GitHub account but it only works in windows.',
+            'demo': 'https://vimeo.com/376002772',
             'github': 'https://github.com/PaulinaMontoya/GDL003-Videogame-2D-Rick-and-Morty',
             'technologies': ["Unity", "C#"]
         }

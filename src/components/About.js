@@ -12,11 +12,11 @@ class About extends Component {
         <div className="cointenerTextAbout">
           <img src={pau} alt="" className="photoPau" ></img>
           <p className="titleAbout">Hello! I´m <span className="spanContact" >Paulina Montoya</span></p>
-          <p className="aboutMe">I studied graphic design and I consider myself as a creative person always thinking how to do a better process in my work. I have experience creating brands and designing the frameworks to web pages, e-commerces, landing pages and movile apps to Android and iOS. Therefor, now I'm learning programming to complement those skills.
-In the last 3 years I started my path to specialize me in web development on my own taking workshops, online courses and getting into Laboratoria's bootcamp as front-end develper.
-I really enjoy team work because the feedback of colleagues improve my work and inspire me to keep learning.
+          <p className="aboutMe">I studied a Bachelor Degree in Graphic Design and have experience developing brands and designing interfaces to web sites, e-commerces, landing pages and mobile apps.
+In the last 3 years I've specilized me in web design and web development attending workshops, taking online courses and currently I'm finishing Laboratoria's bootcamp as a Front-end Developer.
+I enjoy teamwork but also can work independently. 
 <br/>
-<span className="spanContact" >I love maintain my soul creative looking for new trends in design, art and new technologies.</span></p>
+<span className="spanContact" >I love keep my creative being in constant exploration about new trend on design, art and new technologies.</span></p>
           <div className="cointenerButtonsAbout">
             <Link to="/contact">
               <button className="buttonAboutContact"><a target="_blank">Contact me</a></button>

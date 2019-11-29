@@ -30,7 +30,7 @@ class Card extends Component {
                                 )}
                             </div>
                             <div className="cointenerButtonsCards">
-                                <button className="buttonProyect"><a href={item.demo} target="_blank">DEMO</a></button>
+                                <button className="buttonProyect"><a href={item.demo} target="_blank">Demo</a></button>
                                 <button className="buttonProyect"><a href={item.github} target="_blank">GitHub</a></button>
                             </div>
                         </div>

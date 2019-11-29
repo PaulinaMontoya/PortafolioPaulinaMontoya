@@ -22,12 +22,14 @@ class Menu extends Component {
       <div className="cointenerMenu" style={(this.state.openMenuMobile) ? this.styleMobile : {}}>
 
         <div className="containerLogoBurger">
-          <Link to="/">
+          <Link to="/about">
             <img src={logo} alt="paulinamontoya.com" className="logoMenu" ></img>
           </Link>
-          <i class="fas fa-bars fa-2x" onClick={() => {
-            this.setState({ openMenuMobile: !this.state.openMenuMobile })
-          }} ></i>
+          <div className="iconBurger">
+            <i class="fas fa-bars fa-2x" onClick={() => {
+              this.setState({ openMenuMobile: !this.state.openMenuMobile })
+            }} ></i>
+          </div>
         </div>
 
         <div className="cointenerButtons">

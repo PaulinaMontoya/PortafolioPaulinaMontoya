@@ -80,6 +80,11 @@
   .logoMenu {
     width: 35%;
     padding: 0;
+    justify-content: flex-start; 
+  }
+  .iconBurger {
+ 
+    justify-content: flex-end; 
   }
   .cointenerButtons {
     background: #00fa77;
