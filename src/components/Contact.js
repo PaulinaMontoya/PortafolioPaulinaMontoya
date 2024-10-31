@@ -10,7 +10,7 @@ class Contact extends Component {
         <Menu />
         <div className="cointenerInfo">
         <p className="titleContact">Hey! here you can contact me</p>
-        <p className="email">hello@paulinamontoya.com</p>
+        <p className="email">paulinamontoya90@gmail.com</p>
         <div className="cointenerButtonsContact">
           <button className="buttonContact"><a href="https://www.linkedin.com/in/paulinamontoya/" target="_blank"><i className="fab fa-linkedin-in fa-2x"></i></a></button>
           <button className="buttonContact"><a href="https://github.com/PaulinaMontoya" target="_blank"><i class="fab fa-github fa-2x"></i></a></button>
